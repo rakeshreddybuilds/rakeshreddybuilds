@@ -1,4 +1,4 @@
-## Hi, I'm Rakesh 🐱‍👤
+## Hi, I'm Rakesh 👾
 
 
 I'm learning web development, building real projects along the way and documenting my progress here.<br/>
