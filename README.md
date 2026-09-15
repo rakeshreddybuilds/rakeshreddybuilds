@@ -1,9 +1,7 @@
 ## Hi, I'm Rakesh 👾
-I'm learning Python and Data Structures & Algorithms, solving problems and sharpening my fundamentals along the way. Documenting my progress here.<br/>
-🚀 Currently Learning<br/>
-Python fundamentals (30 Days of Python)<br/>
-Data Structures & Algorithms (Abdul Bari)<br/>
-Problem solving on LeetCode<br/>
+I know Python and my hobbies are reading books, watching animes and playing clashofclans.
+I like building cool stuff that's why i am trying to learn python and i know somewhat html and css.
+Thanks for reading these!!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rakeshreddybuilds) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rakesh-reddy-855a1b426) 
 # 💻 Tech Stack:
